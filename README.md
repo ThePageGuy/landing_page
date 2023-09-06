@@ -1,6 +1,6 @@
 # Landing Page
 
-A Small Landing Page got a Trombone Building Company
+A Small Landing Page for a Trombone Building Company
 
 ## Screenshots
 
